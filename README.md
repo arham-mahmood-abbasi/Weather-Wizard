@@ -18,5 +18,5 @@ This is a web application for checking the weather of any city present in the wo
 
 To run this locally you just need to clone the repo and then start the live server and then enter the name of the city in the input field you will get the weather of that city in response and the page will not get refreshed just the element get the data dynamically
 
-[Check out this link for a live demo]: https://arham-mahmood-abbasi.github.io/Weather-Wizard/
+[]: https://arham-mahmood-abbasi.github.io/Weather-Wizard/	"For Live demo visit this website"
 
